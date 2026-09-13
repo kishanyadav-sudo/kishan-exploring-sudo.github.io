@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*base style*/
+
+body{
+    font-family: arial,sans-serif;
+    line-height: 1.6;
+    background: #d1a4a4;
+    color: #3a3a3a;
+    padding: 10px;
+}
+
+header{
+    background: black;
+    color: red;
+    padding: 20px;
+
+}
